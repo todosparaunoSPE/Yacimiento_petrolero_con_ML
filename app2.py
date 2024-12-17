@@ -42,8 +42,7 @@ Esta aplicación permite predecir el **potencial comercial** de yacimientos petr
 3. Se presenta la **precisión** del modelo, junto con métricas como la **matriz de confusión** y la **curva ROC**.
 4. También puedes explorar gráficos interactivos de las características y la evolución de la precisión del modelo a lo largo del tiempo.
 
-#### Sobre el autor:
-Desarrollado por **Javier Horacio Pérez Ricárdez**.
+Desarrollado por:  **Javier Horacio Pérez Ricárdez**.
 """)
 
 # Simulación de datos geofísicos
